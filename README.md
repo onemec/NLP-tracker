@@ -2,8 +2,9 @@
 Track sentiment over time
 
 ## Initial setup:
-1. ```pip install -r requirements.txt```
-2. Run nltk_setup.py to download needed NLT library
+1. Install Microsoft Visual C++ 14.0 for Numpy support
+2. ```pip install -r requirements.txt```
+3. Run nltk_setup.py to download needed NLT library
 
 ## Appending revisions:
 1. Manually install pip dependencies
