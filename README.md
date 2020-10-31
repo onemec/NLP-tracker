@@ -8,4 +8,4 @@ Track sentiment over time
 
 ## Appending revisions:
 1. Manually install pip dependencies
-2. ```pip freeze > requirements.txt```
+2. ```pip freeze > requirements.txt``` *maybe not because this will also add dependencies of required packages*
