@@ -1,4 +1,5 @@
 # NLP-tracker
+(not completed or working on this actively)
 Track sentiment over time
 
 ## Initial setup:
